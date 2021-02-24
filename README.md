@@ -1,4 +1,4 @@
-# Qhack-Simulate-5G-Internet-of-Vehicles-with-QAOA
+# Qhack-QAOA Optimized Maxcut Problem Used in Device Tracking — Examples in Vehicle Connection and 5G Area
 Introduction slides are in the repo too! Please download it to obtain futhuer information.
 [![Build Status](https://i.ibb.co/sCpw28h/Screen-Shot-2020-09-10-at-1-38-50-AM.png)](https://i.ibb.co/sCpw28h/Screen-Shot-2020-09-10-at-1-38-50-AM.png)
 ## Usage
