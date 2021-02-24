@@ -18,3 +18,5 @@ Our task is composed of 3 small tasks: sensor allocation, vehicle positioning an
 2.	Vehicle location: Use the sensors that have been allocated (subtask 1) to locate the vehicle. This method is equivalent to the minimization of the quadratic function.
 3.	Data synchronization: Define the route from the server to many locations and back to the server. We use the QAOQ algorithm to obtain its Ising Hamiltonian eigenstates.
 
+##Video Link
+https://drive.google.com/drive/u/0/folders/1NbkzeKB5iUIsAeYxUSPQJf8GZsLx1eOJ
